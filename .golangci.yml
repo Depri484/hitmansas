@@ -1,6 +1,6 @@
 run:
   timeout: 5m
-
+nhy
 linters:
   enable:
     - bodyclose
