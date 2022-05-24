@@ -8,7 +8,7 @@
 [![codecov](https://codecov.io/gh/celestiaorg/celestia-node/branch/main/graph/badge.svg?token=CWGA4RLDS9)](https://codecov.io/gh/celestiaorg/celestia-node)
 
 Golang implementation of Celestia's data availability node types (`light` | `full` | `bridge`).
-
+vgy
 The celestia-node types described above comprise the celestia data availability (DA) network.
 
 The DA network wraps the celestia-core consensus network by listening for blocks from the consensus network and making them digestible for data availability sampling (DAS).
